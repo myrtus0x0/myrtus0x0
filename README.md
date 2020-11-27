@@ -1,2 +1,6 @@
-[![Myrtus's github stats](https://github-readme-stats.vercel.app/api?username=myrtus0x0&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtus0x0&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/myrtus0x0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=myrtus0x0&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Myrtus's github stats" />
+</a>
+<a href="https://github.com/myrtus0x0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrtus0x0&langs_count=4&line_height=35&theme=dark" />
+</a>
